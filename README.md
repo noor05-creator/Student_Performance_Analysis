@@ -7,6 +7,7 @@
 ## Project Description
 This project analyzes student exam performance across math, reading, and writing.
 It covers descriptive statistics, data cleaning, EDA, correlation analysis, and visualization.
+Branch A description
 
 ## Setup
 ```bash
