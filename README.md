@@ -7,12 +7,8 @@
 ## Project Description
 This project analyzes student exam performance across math, reading, and writing.
 It covers descriptive statistics, data cleaning, EDA, correlation analysis, and visualization.
-<<<<<<< HEAD
 Branch A description
 
-=======
-Branch B description
->>>>>>> branch-b
 ## Setup
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
